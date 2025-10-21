@@ -1,3 +1,5 @@
+# Capstone Module 3 - JCBDAAH-003 - Saas sales - Risman Ariska Sultani
+
 Analisis Pelanggan Bernilai Tinggi (High-Value Customer Analysis) – AWS SaaS Dataset
 
 Proyek ini merupakan bagian dari Capstone Project Module 3 yang berfokus pada analisis perilaku pelanggan AWS (Amazon Web Services) menggunakan pendekatan LRFM (Length, Recency, Frequency, Monetary).
