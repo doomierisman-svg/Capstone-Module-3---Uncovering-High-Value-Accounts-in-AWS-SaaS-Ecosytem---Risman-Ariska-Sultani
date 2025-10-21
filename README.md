@@ -48,7 +48,7 @@ Analisis ini diharapkan dapat merumuskan strategi berbasis data (data-driven str
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 | **Metric** | **Description** |
 |-------------|----------------|
